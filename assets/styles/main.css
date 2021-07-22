@@ -11,8 +11,8 @@ body {
   color: white;
   text-decoration: none;
 }
-.main_navbar a:hover {
-  color: #d1d5da;
+.main_navbar ul li a:hover {
+  color: #52b6fd;
 }
 .main_navbar ul li {
   display: inline-block;
