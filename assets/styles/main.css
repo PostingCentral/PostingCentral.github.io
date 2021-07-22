@@ -10,6 +10,7 @@ body {
   padding: 20px;
   color: white;
   text-decoration: none;
+  font-weight: 600;
 }
 .main_navbar ul li a:hover {
   color: #52b6fd;
