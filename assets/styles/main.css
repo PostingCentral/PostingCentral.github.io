@@ -4,8 +4,11 @@ body {
 .main_header {
   background-color: black;
 }
-.main_navbar a{
+.main_navbar a {
   display: inline-block;
   padding: 20px;
   color: white;
+}
+.main_navbar li {
+  display: inline-block;
 }
