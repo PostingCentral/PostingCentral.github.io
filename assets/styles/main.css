@@ -3,7 +3,7 @@ body {
   font-family: segoe ui;
 }
 .main_header {
-  background-color: black;
+  background-color: #424242;
 }
 .main_navbar a {
   display: inline-block;
@@ -13,4 +13,5 @@ body {
 }
 .main_navbar ul li {
   display: inline-block;
+  list-style-type: none;
 }
